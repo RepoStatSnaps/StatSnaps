@@ -26,6 +26,12 @@ Track repository star history over time. More at: [Star History](https://api.sta
 
 ---
 
+### daily-stars-explorer
+https://github.com/emanuelef/daily-stars-explorer, [Deamon](https://emanuelef.github.io/daily-stars-explorer/#/cndaqiang/wzry)
+
+![cndaqiang_wzry-stars-history](https://github.com/user-attachments/assets/e16bc5a4-1a49-46ee-8396-848954c85d52)
+
+
 ### Badges
 Generate customizable badges at [Shields.io](https://img.shields.io).
 
